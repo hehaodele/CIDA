@@ -1,0 +1,201 @@
+Train Epoch 1: avg_discr_loss = 0.38046, avg_pred_loss = 0.697, avg_total_loss = 0.297
+Test set: Average loss: 0.6868983, Accuracy: 1776/2280 (77.89%)
+Train Epoch 2: avg_discr_loss = 0.17093, avg_pred_loss = 0.685, avg_total_loss = 0.471
+Test set: Average loss: 0.6679511, Accuracy: 1994/2280 (87.46%)
+Train Epoch 3: avg_discr_loss = 0.02658, avg_pred_loss = 0.648, avg_total_loss = 0.560
+Test set: Average loss: 0.6036035, Accuracy: 2053/2280 (90.04%)
+Train Epoch 4: avg_discr_loss = -0.10381, avg_pred_loss = 0.518, avg_total_loss = 0.547
+Test set: Average loss: 0.3850066, Accuracy: 2079/2280 (91.18%)
+Train Epoch 5: avg_discr_loss = -0.22480, avg_pred_loss = 0.290, avg_total_loss = 0.431
+Test set: Average loss: 0.3233958, Accuracy: 1956/2280 (85.79%)
+Train Epoch 6: avg_discr_loss = -0.31789, avg_pred_loss = 0.241, avg_total_loss = 0.470
+Test set: Average loss: 0.2282375, Accuracy: 2064/2280 (90.53%)
+Train Epoch 7: avg_discr_loss = -0.40245, avg_pred_loss = 0.233, avg_total_loss = 0.543
+Test set: Average loss: 0.2218932, Accuracy: 2074/2280 (90.96%)
+Train Epoch 8: avg_discr_loss = -0.47270, avg_pred_loss = 0.247, avg_total_loss = 0.633
+Test set: Average loss: 0.2753940, Accuracy: 2010/2280 (88.16%)
+Train Epoch 9: avg_discr_loss = -0.51825, avg_pred_loss = 0.256, avg_total_loss = 0.700
+Test set: Average loss: 0.2337762, Accuracy: 2054/2280 (90.09%)
+Train Epoch 10: avg_discr_loss = -0.59865, avg_pred_loss = 0.228, avg_total_loss = 0.753
+Test set: Average loss: 0.2284740, Accuracy: 2056/2280 (90.18%)
+Train Epoch 11: avg_discr_loss = -0.66126, avg_pred_loss = 0.228, avg_total_loss = 0.818
+Test set: Average loss: 0.2339884, Accuracy: 2056/2280 (90.18%)
+Train Epoch 12: avg_discr_loss = -0.69595, avg_pred_loss = 0.231, avg_total_loss = 0.858
+Test set: Average loss: 0.2277895, Accuracy: 2059/2280 (90.31%)
+Train Epoch 13: avg_discr_loss = -0.69572, avg_pred_loss = 0.259, avg_total_loss = 0.891
+Test set: Average loss: 0.2435271, Accuracy: 2037/2280 (89.34%)
+Train Epoch 14: avg_discr_loss = -0.70526, avg_pred_loss = 0.244, avg_total_loss = 0.897
+Test set: Average loss: 0.2336632, Accuracy: 2051/2280 (89.96%)
+Train Epoch 15: avg_discr_loss = -0.72856, avg_pred_loss = 0.237, avg_total_loss = 0.902
+Test set: Average loss: 0.2341053, Accuracy: 2049/2280 (89.87%)
+Train Epoch 16: avg_discr_loss = -0.71738, avg_pred_loss = 0.242, avg_total_loss = 0.901
+Test set: Average loss: 0.2342037, Accuracy: 2053/2280 (90.04%)
+Train Epoch 17: avg_discr_loss = -0.69086, avg_pred_loss = 0.223, avg_total_loss = 0.867
+Test set: Average loss: 0.2370743, Accuracy: 2046/2280 (89.74%)
+Train Epoch 18: avg_discr_loss = -0.50879, avg_pred_loss = 0.224, avg_total_loss = 0.747
+Test set: Average loss: 0.2257361, Accuracy: 2055/2280 (90.13%)
+Train Epoch 19: avg_discr_loss = -0.54489, avg_pred_loss = 0.224, avg_total_loss = 0.748
+Test set: Average loss: 0.2342282, Accuracy: 2046/2280 (89.74%)
+Train Epoch 20: avg_discr_loss = -0.35881, avg_pred_loss = 0.230, avg_total_loss = 0.594
+Test set: Average loss: 0.2341022, Accuracy: 2049/2280 (89.87%)
+Train Epoch 21: avg_discr_loss = -0.20351, avg_pred_loss = 0.219, avg_total_loss = 0.337
+Test set: Average loss: 0.2277152, Accuracy: 2058/2280 (90.26%)
+Train Epoch 22: avg_discr_loss = -0.43588, avg_pred_loss = 0.221, avg_total_loss = 0.606
+Test set: Average loss: 0.2334848, Accuracy: 2055/2280 (90.13%)
+Train Epoch 23: avg_discr_loss = -0.53396, avg_pred_loss = 0.220, avg_total_loss = 0.722
+Test set: Average loss: 0.2345715, Accuracy: 2052/2280 (90.00%)
+Train Epoch 24: avg_discr_loss = -0.60007, avg_pred_loss = 0.214, avg_total_loss = 0.767
+Test set: Average loss: 0.2291436, Accuracy: 2047/2280 (89.78%)
+Train Epoch 25: avg_discr_loss = -0.59954, avg_pred_loss = 0.247, avg_total_loss = 0.813
+Test set: Average loss: 0.2611234, Accuracy: 2038/2280 (89.39%)
+Train Epoch 26: avg_discr_loss = -0.64385, avg_pred_loss = 0.233, avg_total_loss = 0.839
+Test set: Average loss: 0.2509042, Accuracy: 2038/2280 (89.39%)
+Train Epoch 27: avg_discr_loss = -0.56868, avg_pred_loss = 0.211, avg_total_loss = 0.749
+Test set: Average loss: 0.2426790, Accuracy: 2052/2280 (90.00%)
+Train Epoch 28: avg_discr_loss = -0.30839, avg_pred_loss = 0.208, avg_total_loss = 0.482
+Test set: Average loss: 0.2330124, Accuracy: 2055/2280 (90.13%)
+Train Epoch 29: avg_discr_loss = -0.59567, avg_pred_loss = 0.209, avg_total_loss = 0.750
+Test set: Average loss: 0.2315386, Accuracy: 2048/2280 (89.82%)
+Train Epoch 30: avg_discr_loss = -0.54131, avg_pred_loss = 0.201, avg_total_loss = 0.725
+Test set: Average loss: 0.2667079, Accuracy: 2039/2280 (89.43%)
+Train Epoch 31: avg_discr_loss = -0.49911, avg_pred_loss = 0.206, avg_total_loss = 0.684
+Test set: Average loss: 0.2322317, Accuracy: 2051/2280 (89.96%)
+Train Epoch 32: avg_discr_loss = -0.22903, avg_pred_loss = 0.214, avg_total_loss = 0.350
+Test set: Average loss: 0.3062382, Accuracy: 1991/2280 (87.32%)
+Train Epoch 33: avg_discr_loss = -0.46593, avg_pred_loss = 0.216, avg_total_loss = 0.633
+Test set: Average loss: 0.2506123, Accuracy: 2048/2280 (89.82%)
+Train Epoch 34: avg_discr_loss = -0.62480, avg_pred_loss = 0.197, avg_total_loss = 0.762
+Test set: Average loss: 0.3030595, Accuracy: 2011/2280 (88.20%)
+Train Epoch 35: avg_discr_loss = -0.60736, avg_pred_loss = 0.202, avg_total_loss = 0.777
+Test set: Average loss: 0.2291592, Accuracy: 2054/2280 (90.09%)
+Train Epoch 36: avg_discr_loss = -0.55989, avg_pred_loss = 0.214, avg_total_loss = 0.735
+Test set: Average loss: 0.2426482, Accuracy: 2049/2280 (89.87%)
+Train Epoch 37: avg_discr_loss = -0.17896, avg_pred_loss = 0.204, avg_total_loss = 0.341
+Test set: Average loss: 0.2255306, Accuracy: 2063/2280 (90.48%)
+Train Epoch 38: avg_discr_loss = -0.54503, avg_pred_loss = 0.193, avg_total_loss = 0.670
+Test set: Average loss: 0.2404009, Accuracy: 2050/2280 (89.91%)
+Train Epoch 39: avg_discr_loss = -0.58716, avg_pred_loss = 0.182, avg_total_loss = 0.716
+Test set: Average loss: 0.2404049, Accuracy: 2059/2280 (90.31%)
+Train Epoch 40: avg_discr_loss = -0.53420, avg_pred_loss = 0.189, avg_total_loss = 0.699
+Test set: Average loss: 0.2721294, Accuracy: 2047/2280 (89.78%)
+Train Epoch 41: avg_discr_loss = -0.13437, avg_pred_loss = 0.176, avg_total_loss = 0.247
+Test set: Average loss: 0.2440502, Accuracy: 2064/2280 (90.53%)
+Train Epoch 42: avg_discr_loss = -0.53033, avg_pred_loss = 0.181, avg_total_loss = 0.617
+Test set: Average loss: 0.2389245, Accuracy: 2059/2280 (90.31%)
+Train Epoch 43: avg_discr_loss = -0.65872, avg_pred_loss = 0.170, avg_total_loss = 0.769
+Test set: Average loss: 0.2329717, Accuracy: 2065/2280 (90.57%)
+Train Epoch 44: avg_discr_loss = -0.34581, avg_pred_loss = 0.160, avg_total_loss = 0.473
+Test set: Average loss: 0.2495045, Accuracy: 2082/2280 (91.32%)
+Train Epoch 45: avg_discr_loss = -0.50854, avg_pred_loss = 0.179, avg_total_loss = 0.620
+Test set: Average loss: 0.2270802, Accuracy: 2091/2280 (91.71%)
+Train Epoch 46: avg_discr_loss = -0.19858, avg_pred_loss = 0.149, avg_total_loss = 0.291
+Test set: Average loss: 0.2428598, Accuracy: 2074/2280 (90.96%)
+Train Epoch 47: avg_discr_loss = -0.40790, avg_pred_loss = 0.149, avg_total_loss = 0.473
+Test set: Average loss: 0.2266076, Accuracy: 2077/2280 (91.10%)
+Train Epoch 48: avg_discr_loss = -0.38420, avg_pred_loss = 0.150, avg_total_loss = 0.474
+Test set: Average loss: 0.2347171, Accuracy: 2076/2280 (91.05%)
+Train Epoch 49: avg_discr_loss = -0.60060, avg_pred_loss = 0.150, avg_total_loss = 0.694
+Test set: Average loss: 0.2803703, Accuracy: 2052/2280 (90.00%)
+Train Epoch 50: avg_discr_loss = -0.45592, avg_pred_loss = 0.164, avg_total_loss = 0.590
+Test set: Average loss: 0.2530317, Accuracy: 2073/2280 (90.92%)
+Train Epoch 51: avg_discr_loss = -0.11345, avg_pred_loss = 0.149, avg_total_loss = 0.174
+Test set: Average loss: 0.2438038, Accuracy: 2083/2280 (91.36%)
+Train Epoch 52: avg_discr_loss = -0.37225, avg_pred_loss = 0.144, avg_total_loss = 0.417
+Test set: Average loss: 0.2450541, Accuracy: 2068/2280 (90.70%)
+Train Epoch 53: avg_discr_loss = -0.36234, avg_pred_loss = 0.144, avg_total_loss = 0.454
+Test set: Average loss: 0.2563790, Accuracy: 2071/2280 (90.83%)
+Train Epoch 54: avg_discr_loss = -0.14483, avg_pred_loss = 0.194, avg_total_loss = 0.229
+Test set: Average loss: 0.2219429, Accuracy: 2092/2280 (91.75%)
+Train Epoch 55: avg_discr_loss = -0.14816, avg_pred_loss = 0.142, avg_total_loss = 0.151
+Test set: Average loss: 0.2218996, Accuracy: 2091/2280 (91.71%)
+Train Epoch 56: avg_discr_loss = -0.26935, avg_pred_loss = 0.151, avg_total_loss = 0.299
+Test set: Average loss: 0.2453881, Accuracy: 2100/2280 (92.11%)
+Train Epoch 57: avg_discr_loss = -0.17124, avg_pred_loss = 0.140, avg_total_loss = 0.203
+Test set: Average loss: 0.2216854, Accuracy: 2098/2280 (92.02%)
+Train Epoch 58: avg_discr_loss = -0.14660, avg_pred_loss = 0.136, avg_total_loss = 0.141
+Test set: Average loss: 0.2151560, Accuracy: 2107/2280 (92.41%)
+Train Epoch 59: avg_discr_loss = -0.20444, avg_pred_loss = 0.135, avg_total_loss = 0.206
+Test set: Average loss: 0.2379337, Accuracy: 2086/2280 (91.49%)
+Train Epoch 60: avg_discr_loss = -0.16430, avg_pred_loss = 0.144, avg_total_loss = 0.183
+Test set: Average loss: 0.2225178, Accuracy: 2098/2280 (92.02%)
+Train Epoch 61: avg_discr_loss = -0.13720, avg_pred_loss = 0.123, avg_total_loss = 0.120
+Test set: Average loss: 0.2343807, Accuracy: 2092/2280 (91.75%)
+Train Epoch 62: avg_discr_loss = -0.27518, avg_pred_loss = 0.144, avg_total_loss = 0.300
+Test set: Average loss: 0.2276060, Accuracy: 2111/2280 (92.59%)
+Train Epoch 63: avg_discr_loss = -0.15898, avg_pred_loss = 0.140, avg_total_loss = 0.194
+Test set: Average loss: 0.2493451, Accuracy: 2074/2280 (90.96%)
+Train Epoch 64: avg_discr_loss = -0.13209, avg_pred_loss = 0.131, avg_total_loss = 0.127
+Test set: Average loss: 0.2153635, Accuracy: 2109/2280 (92.50%)
+Train Epoch 65: avg_discr_loss = -0.16797, avg_pred_loss = 0.125, avg_total_loss = 0.157
+Test set: Average loss: 0.2555409, Accuracy: 2080/2280 (91.23%)
+Train Epoch 66: avg_discr_loss = -0.17281, avg_pred_loss = 0.125, avg_total_loss = 0.169
+Test set: Average loss: 0.2217841, Accuracy: 2111/2280 (92.59%)
+Train Epoch 67: avg_discr_loss = -0.13615, avg_pred_loss = 0.122, avg_total_loss = 0.120
+Test set: Average loss: 0.2196011, Accuracy: 2101/2280 (92.15%)
+Train Epoch 68: avg_discr_loss = -0.13915, avg_pred_loss = 0.115, avg_total_loss = 0.120
+Test set: Average loss: 0.2154305, Accuracy: 2116/2280 (92.81%)
+Train Epoch 69: avg_discr_loss = -0.16572, avg_pred_loss = 0.117, avg_total_loss = 0.150
+Test set: Average loss: 0.2143667, Accuracy: 2119/2280 (92.94%)
+Train Epoch 70: avg_discr_loss = -0.14857, avg_pred_loss = 0.107, avg_total_loss = 0.127
+Test set: Average loss: 0.2073409, Accuracy: 2130/2280 (93.42%)
+Train Epoch 71: avg_discr_loss = -0.12569, avg_pred_loss = 0.115, avg_total_loss = 0.110
+Test set: Average loss: 0.2055445, Accuracy: 2122/2280 (93.07%)
+Train Epoch 72: avg_discr_loss = -0.14609, avg_pred_loss = 0.118, avg_total_loss = 0.138
+Test set: Average loss: 0.2199815, Accuracy: 2109/2280 (92.50%)
+Train Epoch 73: avg_discr_loss = -0.15893, avg_pred_loss = 0.113, avg_total_loss = 0.148
+Test set: Average loss: 0.2024335, Accuracy: 2127/2280 (93.29%)
+Train Epoch 74: avg_discr_loss = -0.12152, avg_pred_loss = 0.110, avg_total_loss = 0.103
+Test set: Average loss: 0.1971523, Accuracy: 2131/2280 (93.46%)
+Train Epoch 75: avg_discr_loss = -0.13549, avg_pred_loss = 0.097, avg_total_loss = 0.105
+Test set: Average loss: 0.1936016, Accuracy: 2129/2280 (93.38%)
+Train Epoch 76: avg_discr_loss = -0.14823, avg_pred_loss = 0.101, avg_total_loss = 0.124
+Test set: Average loss: 0.2211935, Accuracy: 2119/2280 (92.94%)
+Train Epoch 77: avg_discr_loss = -0.14046, avg_pred_loss = 0.111, avg_total_loss = 0.127
+Test set: Average loss: 0.1979825, Accuracy: 2132/2280 (93.51%)
+Train Epoch 78: avg_discr_loss = -0.13091, avg_pred_loss = 0.102, avg_total_loss = 0.106
+Test set: Average loss: 0.1858655, Accuracy: 2135/2280 (93.64%)
+Train Epoch 79: avg_discr_loss = -0.12174, avg_pred_loss = 0.092, avg_total_loss = 0.092
+Test set: Average loss: 0.1981658, Accuracy: 2134/2280 (93.60%)
+Train Epoch 80: avg_discr_loss = -0.12566, avg_pred_loss = 0.111, avg_total_loss = 0.116
+Test set: Average loss: 0.1834375, Accuracy: 2133/2280 (93.55%)
+Train Epoch 81: avg_discr_loss = -0.12260, avg_pred_loss = 0.095, avg_total_loss = 0.104
+Test set: Average loss: 0.1866895, Accuracy: 2144/2280 (94.04%)
+Train Epoch 82: avg_discr_loss = -0.12953, avg_pred_loss = 0.101, avg_total_loss = 0.113
+Test set: Average loss: 0.2062894, Accuracy: 2108/2280 (92.46%)
+Train Epoch 83: avg_discr_loss = -0.12584, avg_pred_loss = 0.109, avg_total_loss = 0.117
+Test set: Average loss: 0.1919840, Accuracy: 2134/2280 (93.60%)
+Train Epoch 84: avg_discr_loss = -0.13018, avg_pred_loss = 0.108, avg_total_loss = 0.117
+Test set: Average loss: 0.1798227, Accuracy: 2143/2280 (93.99%)
+Train Epoch 85: avg_discr_loss = -0.12832, avg_pred_loss = 0.094, avg_total_loss = 0.101
+Test set: Average loss: 0.1925408, Accuracy: 2137/2280 (93.73%)
+Train Epoch 86: avg_discr_loss = -0.12216, avg_pred_loss = 0.099, avg_total_loss = 0.107
+Test set: Average loss: 0.1772581, Accuracy: 2146/2280 (94.12%)
+Train Epoch 87: avg_discr_loss = -0.12424, avg_pred_loss = 0.088, avg_total_loss = 0.096
+Test set: Average loss: 0.1878205, Accuracy: 2136/2280 (93.68%)
+Train Epoch 88: avg_discr_loss = -0.11376, avg_pred_loss = 0.086, avg_total_loss = 0.090
+Test set: Average loss: 0.1866092, Accuracy: 2139/2280 (93.82%)
+Train Epoch 89: avg_discr_loss = -0.10244, avg_pred_loss = 0.090, avg_total_loss = 0.087
+Test set: Average loss: 0.1759840, Accuracy: 2157/2280 (94.61%)
+Train Epoch 90: avg_discr_loss = -0.11166, avg_pred_loss = 0.084, avg_total_loss = 0.086
+Test set: Average loss: 0.1843264, Accuracy: 2143/2280 (93.99%)
+Train Epoch 91: avg_discr_loss = -0.10848, avg_pred_loss = 0.072, avg_total_loss = 0.072
+Test set: Average loss: 0.2097197, Accuracy: 2124/2280 (93.16%)
+Train Epoch 92: avg_discr_loss = -0.10539, avg_pred_loss = 0.080, avg_total_loss = 0.080
+Test set: Average loss: 0.1840039, Accuracy: 2146/2280 (94.12%)
+Train Epoch 93: avg_discr_loss = -0.09822, avg_pred_loss = 0.081, avg_total_loss = 0.079
+Test set: Average loss: 0.1709391, Accuracy: 2162/2280 (94.82%)
+Train Epoch 94: avg_discr_loss = -0.11730, avg_pred_loss = 0.086, avg_total_loss = 0.093
+Test set: Average loss: 0.1581234, Accuracy: 2177/2280 (95.48%)
+Train Epoch 95: avg_discr_loss = -0.11642, avg_pred_loss = 0.077, avg_total_loss = 0.079
+Test set: Average loss: 0.1739160, Accuracy: 2161/2280 (94.78%)
+Train Epoch 96: avg_discr_loss = -0.11694, avg_pred_loss = 0.072, avg_total_loss = 0.072
+Test set: Average loss: 0.1575189, Accuracy: 2183/2280 (95.75%)
+Train Epoch 97: avg_discr_loss = -0.11960, avg_pred_loss = 0.077, avg_total_loss = 0.080
+Test set: Average loss: 0.1916895, Accuracy: 2138/2280 (93.77%)
+Train Epoch 98: avg_discr_loss = -0.11993, avg_pred_loss = 0.073, avg_total_loss = 0.075
+Test set: Average loss: 0.1644848, Accuracy: 2170/2280 (95.18%)
+Train Epoch 99: avg_discr_loss = -0.11882, avg_pred_loss = 0.069, avg_total_loss = 0.072
+Test set: Average loss: 0.1701409, Accuracy: 2175/2280 (95.39%)
+Train Epoch 100: avg_discr_loss = -0.11930, avg_pred_loss = 0.068, avg_total_loss = 0.070
+Test set: Average loss: 0.1701062, Accuracy: 2166/2280 (95.00%)
+Test set: Average loss: 0.1701062, Accuracy: 2166/2280 (95.00%)
