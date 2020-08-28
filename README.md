@@ -11,7 +11,7 @@ This is the authors' official PyTorch implementation for CIDA. This repo contain
 * [Reference](https://github.com/hehaodele/CIDA#reference)
 
 ## Beyond Domain Adaptation: Brief Introduction for CIDA
-Essentially CIDA asks the question of whether and how to go beyond current (categorical) domain adaptation regime and proposes the first approach to adapt across continuously indexed domains. For example, instead of adapting from domain A to domain B, we would like to simultaneously adapt across infintely many domains in a manifold. This allows us to go beyond domain adaption and perform both [domain interpolation](https://github.com/hehaodele/CIDA#intra-dataset-results-on-real-world-medical-datasets) and [domain extrapolation](https://github.com/hehaodele/CIDA#intra-dataset-results-on-real-world-medical-datasets). See the following toy example.
+Essentially CIDA asks the question of whether and how to **go beyond current (categorical) domain adaptation regime** and proposes **the first approach to adapt across continuously indexed domains**. For example, instead of adapting from domain A to domain B, we would like to simultaneously adapt across infintely many domains in a manifold. This allows us to go beyond domain adaption and perform both [domain interpolation](https://github.com/hehaodele/CIDA#intra-dataset-results-on-real-world-medical-datasets) and [domain extrapolation](https://github.com/hehaodele/CIDA#intra-dataset-results-on-real-world-medical-datasets). See the following toy example.
 
 <p align="center">
 <img src="fig/blog-circle.png" alt="" data-canonical-src="fig/blog-circle.png" width="95%"/>
