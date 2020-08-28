@@ -32,9 +32,9 @@ We provide a simple yet effective learning framework with **theoretical guarante
 </p>
 
 ## IPython Notebooks and Environment
-Below are some IPython Notebooks for the experiments. We strongly recommend starting from the simplest case, i.e., [Experiments for Toy Datasets (Quater Circle)](toy-circle/main-quarter-circle.ipynb) to get familar with the data and settings. 
+Below are some IPython Notebooks for the experiments. We strongly recommend starting from the simplest case, i.e., [Experiments for Toy Datasets (Quarter Circle)](toy-circle/main-quarter-circle.ipynb) to get familar with the data and settings. 
 #### IPython Notebooks
-* [Experiments for Toy Datasets (Quater Circle)](toy-circle/main-quarter-circle.ipynb)
+* [Experiments for Toy Datasets (Quarter Circle)](toy-circle/main-quarter-circle.ipynb)
 * [Experiments for Toy Datasets (Half Circle)](toy-circle/main-half-circle.ipynb)
 * [Experiments for Toy Datasets (Sine)](toy-sine/main-sine-CIDA.ipynb)
 * [Experiments for Rotating MNIST](rotatingMNIST/main.ipynb)
