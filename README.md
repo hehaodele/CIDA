@@ -17,6 +17,8 @@ Essentially CIDA asks the question of whether and how to **go beyond current (ca
 <img src="fig/blog-circle.png" alt="" data-canonical-src="fig/blog-circle.png" width="95%"/>
 </p>
 
+For a more **visual** introduction, feel free to take a look at this [video](https://www.youtube.com/watch?v=KtZPSCD-WhQ).
+
 ## Sample Results
 If we use domains [1, 6] as source domains and the rest as target domains, below are some sample results from previous domain adaptation methods and CIDA, where CIDA successfully learns how the decision boundary evolves with the domain index.
 <p align="center">
