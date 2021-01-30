@@ -181,6 +181,7 @@ class ClassDiscNet(nn.Module):
         x = F.relu(self.bn5(self.fc5(x)))
         x = F.relu(self.bn6(self.fc6(x)))
         x = F.relu(self.bn7(self.fc7(x)))
+        x = self.fc_final(x)
         x = torch.log_softmax(x, dim=1)
         if re:
             return x.reshape(T, B, -1)
