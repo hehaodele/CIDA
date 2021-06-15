@@ -88,7 +88,7 @@ Denoting the domain index as *u* and the encoding as ***z***, we have (check the
 
 ## Reference
 [Continuously Indexed Domain Adaptation](http://wanghao.in/paper/ICML20_CIDA.pdf)
-```
+```bib
 @inproceedings{DBLP:conf/icml/WangHK20,
   author    = {Hao Wang and
                Hao He and
