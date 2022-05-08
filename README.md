@@ -82,8 +82,11 @@ Denoting the domain index as *u* and the encoding as ***z***, we have (check the
 * **Theorem 2** (Informal). PCIDA converges, *if and only if*, the expectation and the variance of domain index, 𝔼[𝑢 | ***z***] and 𝕍[𝑢 | ***z***] are identical for any ***z***.
 * **Theorem 3** (Informal). The global optimum of the two-player game between 𝐸 and 𝐷 matches the global optimum of the three-play game between 𝐸, 𝐹, and 𝐷.
 
-
-
+## Also Check Out Relevant Work
+**Graph-Relational Domain Adaptation**<br>
+Zihao Xu, Hao He, Guang-He Lee, Yuyang Wang, Hao Wang<br>
+*Tenth International Conference on Learning Representations (ICLR), 2022*<br>
+[[Paper](http://www.wanghao.in/paper/ICLR22_GRDA.pdf)] [[Code]](https://github.com/Wang-ML-Lab/GRDA)
 
 
 ## Reference
