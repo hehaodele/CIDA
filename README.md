@@ -86,7 +86,7 @@ Denoting the domain index as *u* and the encoding as ***z***, we have (check the
 **Graph-Relational Domain Adaptation**<br>
 Zihao Xu, Hao He, Guang-He Lee, Yuyang Wang, Hao Wang<br>
 *Tenth International Conference on Learning Representations (ICLR), 2022*<br>
-[[Paper](http://www.wanghao.in/paper/ICLR22_GRDA.pdf)] [[Code]](https://github.com/Wang-ML-Lab/GRDA)
+[[Paper](http://www.wanghao.in/paper/ICLR22_GRDA.pdf)] [[Code](https://github.com/Wang-ML-Lab/GRDA)] [[Talk](https://www.youtube.com/watch?v=oNM5hZGVv34)] [[Slides](http://wanghao.in/slides/GRDA_slides.pptx)]
 
 
 ## Reference
