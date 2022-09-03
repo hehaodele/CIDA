@@ -17,6 +17,12 @@ Essentially CIDA asks the question of whether and how to **go beyond current (ca
 <img src="fig/blog-circle.png" alt="" data-canonical-src="fig/blog-circle.png" width="95%"/>
 </p>
 
+Naturally categorical domain adaptation works on a finite number of domains while CIDA works on infinitely many domains. See the following comparison. 
+
+<p align="center">
+<img src="fig/blog-CategoricalDA-vs-CIDA.png" alt="" data-canonical-src="fig/blog-CategoricalDA-vs-CIDA.png" width="95%"/>
+</p>
+
 For a more **visual** introduction, feel free to take a look at this [video](https://www.youtube.com/watch?v=KtZPSCD-WhQ).
 
 ## Sample Results
